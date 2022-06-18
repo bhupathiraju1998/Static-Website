@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height: 40vh;
+}
+
+.main-heading {
+    color: white;
+    font-size: 50px;
+    padding: 15px;
+}
+
+.image {
+    height: 160px;
+    width: 200px;
+}
+
+.text {
+    text-align: center;
+    padding: 15px;
+    margin: 25px;
+}
+
+.sub-heading {
+    color: #151765;
+    font-size: 25px;
+}
+
+.sub-para {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.bg-container-two {
+    background-color: #151765;
+    height: 30vh;
+    width: 100vw;
+
+}
+
+.image-two {
+    height: 160px;
+    width: 200px;
+}
+
+.sub-heading-two {
+    color: #ffffff;
+}
+
+.sub-para-two {
+    color: #ffffff;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.blue-color {
+    color: #151765;
+}
+
+.grey-color {
+    color: #5a7184;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    width: 70px;
+    border-radius: 20px;
+
+}
+
+.button-align {
+    text-align: right;
+}

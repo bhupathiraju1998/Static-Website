@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100vh;
+}
+
+.image-first-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    width: 100vw;
+    height: 60vh;
+    background-size: cover;
+}
+
+.first-text-container {
+    color: #ffffff;
+    font-family: "Beer Serif";
+    text-align: center;
+    font-weight: normal;
+}
+
+.image-second-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 25px;
+}
+
+.first-text-container {
+    color: #ffffff;
+    font-family: "Beer Serif";
+    text-align: center;
+    font-weight: 25px;
+}
+
+.sectiontwo-image {
+    height: 20vh;
+    width: 100vw;
+}
+
+.second-container {
+    padding: 15px;
+}
+
+.text-color1 {
+    color: #ffffff;
+    font-family: "beer serif";
+}
+
+.text-color2 {
+    color: #98a1bd;
+    font-family: "Beer Serif";
+}
+
+.image-size {
+    height: 120px;
+    width: 150px;
+}
+
+.text-size {
+    font-size: 25px;
+}
+
+.image-size2 {
+    height: 120px;
+    width: 150px;
+}

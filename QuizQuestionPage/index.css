@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #875fc0;
+    background-size: cover;
+
+}
+
+.heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    text-align: right;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.main-container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+.main-container-heading {
+    color: #1f2933;
+}
+
+.main-container-paragraph {
+    color: #323f4b;
+}
+
+.main-container-image {
+    height: 150px;
+    width: 300px;
+}
+
+.second-container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+
+
+
+}
+
+.button {
+    background-color: #fbaf00;
+    color: #ffffff;
+}
+
+.first-choice {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    height: 50px;
+    width: 300px;
+    margin: 20px;
+}
+
+.second-choice {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    height: 50px;
+    width: 300px;
+    margin: 20px;
+}
+
+.third-choice {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    height: 50px;
+    width: 300px;
+    margin: 20px;
+    background-color: #875fc0;
+}
+
+.third-choice-text-color {
+    color: #ffffff;
+}
+
+.fourth-choice {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    height: 50px;
+    width: 300px;
+    margin: 20px;
+}
+
+.main-button {
+    text-align: center;
+}
+
+.unordered-list {
+    list-style-type: none;
+}
